@@ -1,3 +1,4 @@
+version 1.0
 task assemble {
     File     reads_unmapped_bam
     File     trim_clip_db

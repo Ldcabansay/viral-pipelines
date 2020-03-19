@@ -1,3 +1,4 @@
+version 1.0
 task krakenuniq {
   Array[File] reads_unmapped_bam
   File        krakenuniq_db_tar_lz4  # krakenuniq/{database.kdb,taxonomy}

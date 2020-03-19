@@ -1,4 +1,4 @@
-
+version 1.0
 task merge_tarballs {
   Array[File]+  tar_chunks
   String        out_filename

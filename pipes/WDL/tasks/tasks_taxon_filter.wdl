@@ -1,4 +1,4 @@
-
+version 1.0
 # ======================================================================
 # deplete: 
 #   Runs a full human read depletion pipeline and removes PCR duplicates

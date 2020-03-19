@@ -1,3 +1,4 @@
+version 1.0
 import "../tasks/tasks_demux.wdl" as demux
 import "../tasks/tasks_metagenomics.wdl" as metagenomics
 import "../tasks/tasks_taxon_filter.wdl" as taxon_filter
